@@ -1,0 +1,159 @@
+@font-face {
+    font-family: Oswald_Bold;
+    src: url(../fonts/Oswald-Bold.ttf);
+   }
+@font-face {
+    font-family: Play_fair_Display;
+    src: url(../fonts/PlayfairDisplay-Regular.otf);
+   }
+header{
+    background: url("../img/header_bg.jpg") no-repeat center;
+    background-size: cover;
+    height: 100vh;
+}
+body{
+    overflow-x: hidden;
+}
+body a {
+    color: black;
+}
+.start{
+    margin-top: 80vh;
+}
+.services{
+    background-color: #E5E5E5;
+    height: 100vh;
+}
+.header{
+    font-family: Oswald_Bold;
+    margin-bottom: 0px;
+
+}
+.hr{
+    margin-top: -3vh;
+}
+.servis_pict{
+    font-family: Play_fair_Display;
+    margin-top: 10vh;
+}
+.photo{
+    background-color: #F9F9F9;
+    height: 150vh;
+}
+.img_1_1{
+    width: 12vw;
+    margin-top: 10vh;
+    height: 45vh;
+}
+.img_1_2{
+    width: 12vw;
+    height: 30vh;
+    margin-top: 7vh;
+}
+.img_1_3{
+    width: 12vw;
+    height: 20vh;
+    margin-top: 7vh;
+
+}
+.img_2_1{
+
+    width: 12vw;
+    height: 20vh;
+    margin-top: 10vh;
+
+}
+.img_2_2{
+
+    width: 12vw;
+    height: 45vh;
+    margin-top: 7vh;
+
+}
+.img_2_3{
+
+    width: 12vw;
+    height: 30vh;
+    margin-top: 7vh;
+}
+.img_3_1{
+    width: 12vw;
+    height: 32vh;
+    margin-top: 10vh;
+
+}
+.img_3_2{
+    width: 12vw;
+    height: 38vh;
+    margin-top: 7vh;
+
+}
+.img_3_3{
+    width: 12vw;
+    height: 25vh;
+    margin-top: 7vh;
+
+}
+.about{
+    font-family: Play_fair_Display;
+    height: 160vh;
+    background-color: #E5E5E5;
+}
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 80vw;
+        height: 60vh;
+      margin: auto;
+  }
+.about_text{
+    margin-top: 10vh;
+}
+.destination{
+    font-family: Play_fair_Display;
+    background-color: #F9F9F9;
+    height: 240vh;
+}
+.well{
+
+    background-color: white;
+}
+.price{
+    color: lightgrey;
+}
+.faq{
+    background-color: #E5E5E5;
+    height: 115vh;
+}
+.faq_header{
+    font-family: Oswald_Bold;
+    margin-bottom: 3vh;
+}
+.faq_text{
+    font-family: Play_fair_Display;
+}
+.video{
+ height: 100vh;
+}
+.video_params{
+    height: 80vh;
+}
+.contact{
+    font-family: Oswald_Bold;
+    height:100vh;
+    background-color: #E5E5E5;
+}
+.input1{
+    margin-top: 10vh;
+}
+.input2{
+    margin-top: 5vh;
+}
+.send_btn{
+    background-color: #222222;
+    color: white;
+    border-color: transparent;
+    border-radius: 0px;
+}
+.margin_top{
+    margin-top: 10vh;
+}
